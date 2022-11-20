@@ -9,11 +9,25 @@ Microsoft sees all the big companies creating original video content and they wa
 * What genres of movies have the highest grosssing movies?
 * What is the best time to release a movie?
 
+
+## DATA used:
+* n.movie_budget.csv
+* tmdb.movies.csv
+* Bom.movie.gross.csv
+* Im.db database
+
+### The datasets are extracted from the following sites:
+* Box Office.
+* IMDB.
+* Rotten Tomatoes.
+* TheMovieDB.
+* The Numbers.
+
 ## Procedure
 * Exploration of data given
 * Cleaning the datasits
 * Analysis and visualizations
-* 
+*
 # Conclusions and recommendations
 * High rated movies gross higher, hence high profit margins.
 * Action, drama and comedy genre of movies are the best to venture into since they gross the highest and have a high count of numbers. Microsoft should focus on production of Action, drama and comedy genre of movies
